@@ -8,6 +8,7 @@ namespace AppAbstractFactoryPattern
 {
     class AbstractFactoryPttrn
     {
+        string str = "classs";
         interface INormal 
         {
             string DisplayBase();
